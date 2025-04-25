@@ -1,7 +1,12 @@
 ## Olá sou o Joao Navari
 
 - 🔭 Hoje trablho com T.I
-- 📖 E estou estudando Front-end
+- 📖 Estudante de Engenharia de Software 
+
+---
+- Sobre mim👾: Estou estudando Front-End: Html, css, Js, sou apaixonado por tecnologia, estou sempre em busca de conhecimento, tenho muito interesse em melhorar meu conhecimento em Back-end em liguagens como, JAVA, PHP, Python.
+
+---
 
 <p align="left">
     </a> 
@@ -83,7 +88,7 @@
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="120" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaonavari&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
 
