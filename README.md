@@ -4,7 +4,7 @@
 - 📖 Estudante de Engenharia de Software 
 
 ---
-- Sobre mim👾: Estou estudando Front-End: Html, css, Js, sou apaixonado por tecnologia, estou sempre em busca de conhecimento, tenho muito interesse em melhorar meu conhecimento em Back-end em liguagens como, JAVA, PHP, Python.
+- Sobre mim👾: Estou estudando Front-End: Html, css, Js, sou apaixonado por tecnologia, estou sempre em busca de conhecimento, tenho muito interesse em melhorar meu conhecimento em Back-end em liguagens como, JAVA, C#, Python.
 
 ---
 
@@ -54,14 +54,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  
 />
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Python" 
