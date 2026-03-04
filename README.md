@@ -4,7 +4,7 @@
 - 📖 Estudante de Engenharia de Software 
 
 ---
-- Sobre mim👾: Estou estudando Front-End: Html, css, Js, sou apaixonado por tecnologia, estou sempre em busca de conhecimento, tenho muito interesse em melhorar meu conhecimento em Back-end em liguagens como, JAVA, C#, Python.
+- Sobre mim👾: Estou estudando Desenvolvimento Full-Stack Web: Html, css, Js, sou apaixonado por tecnologia, estou sempre em busca de conhecimento, tenho muito interesse em melhorar meu conhecimento em Back-end em liguagens como, JAVA, C#, Python.
 
 ---
 
