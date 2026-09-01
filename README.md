@@ -1,15 +1,15 @@
-## Olá sou o Joao Navari
+## Olá, sou o João Navari! ✌️
 
-- 🔭 Hoje trablho com T.I
-- 📖 Estudante de Engenharia de Software 
+- 🔭 Atuando como **Desenvolvedor Web**, construindo sites e interfaces dinâmicas.
+- 💻 Desenvolvendo projetos robustos em **Back-end** (Java/Spring Boot) para consolidar minha stack Full-Stack.
+- 📖 Estudante do 2º ano de **Engenharia de Software** na UniCesumar.
 
 ---
-- Sobre mim👾: Estou estudando Desenvolvimento Full-Stack Web: Html, css, Js, sou apaixonado por tecnologia, estou sempre em busca de conhecimento, tenho muito interesse em melhorar meu conhecimento em Back-end em liguagens como, JAVA, C#, Python.
+- **Sobre mim 👾:** Sou apaixonado por tecnologia e focado em evoluir constantemente. Atualmente, aplico meus conhecimentos trabalhando no desenvolvimento de interfaces Front-end com **React, TypeScript, JavaScript, HTML e CSS**. Em paralelo, estou expandindo minha atuação para o **Back-end**, construindo APIs RESTful seguras e estruturadas com **Java (Spring Boot)** e modelando bancos de dados relacionais na nuvem (como **PostgreSQL**). Meu objetivo é dominar as duas pontas da programação para projetar e entregar sistemas completos!
 
 ---
 
 <p align="left">
-    </a> 
     <a href="https://github.com/joaonavari?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -30,6 +30,31 @@
 
 ### 🤖 Linguagens e Tecnologias
 
+<!-- Backend & Banco de Dados -->
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Spring Boot"
+    title="Spring Boot" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
 <img 
     align="left" 
     alt="Node.js"
@@ -40,11 +65,29 @@
 />
 <img 
     align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
     alt="C"
     title="C" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+
+<!-- Frontend -->
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
     align="left" 
@@ -53,6 +96,14 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  
 />
 <img 
     align="left" 
@@ -70,23 +121,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  
-/>
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
 
 <br/>
 <br/>
@@ -101,9 +135,7 @@
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=joaonavari&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
 </p>
-
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaonavari/joaonavari/output/github-contribution-grid-snake-dark.svg">
